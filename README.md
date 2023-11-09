@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install aarzzen/tap/<formula>`
+`brew install aarzzen/git/<formula>`
 
-Or `brew tap aarzzen/tap` and then `brew install <formula>`.
+Or `brew tap aarzzen/git` and then `brew install <formula>`.
 
 ## Documentation
 
